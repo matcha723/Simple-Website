@@ -56,8 +56,8 @@ body {
 .project {
   display: inline-block;
   overflow: hidden;
-  height: 210px;
-  width: 280px;
+  height: 50px;
+  width: 50px;
   margin: 50px;
   border-radius: 25px;
 }
